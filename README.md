@@ -18,3 +18,4 @@ Sample website with plenty of files for demos
 ##6
 ##xyz
 ## copyright
+##Adding instruction to help to commit
