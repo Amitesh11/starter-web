@@ -17,3 +17,4 @@ Sample website with plenty of files for demos
 ##5
 ##6
 ##xyz
+## copyright
